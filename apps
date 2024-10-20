@@ -1,0 +1,22 @@
+1) Chrome via .deb file
+~~~
+ sudo dpkg -i <chrome> 
+~~~
+
+2) git install:
+https://git-scm.com/downloads/linux
+https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Configura%C3%A7%C3%A3o-Inicial-do-Git
+
+3) docker install:
+https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository
+https://docs.docker.com/engine/install/linux-postinstall/
+
+4) VSCODE install:
+Via app store do ubuntu
+
+5) NVM install: 
+https://github.com/nvm-sh/nvm
+
+6) Node install:
+nvm install <version>
+nvm use <version>
